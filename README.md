@@ -1,7 +1,5 @@
 # iOS Framework With Resource
 
-## Powered by [Teepluss](https://github.com/teepluss)
-
 > The other day I was finding myself wondering why it was so complicated to create a “framework” for iOS which contained Storyboards, graphics, etc.
 
 I found iOS Framework method in Xcode App. Try the following steps to create a workspace that contains a framework project and an app project.
